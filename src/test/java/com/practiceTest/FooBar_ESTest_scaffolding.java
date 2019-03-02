@@ -4,7 +4,7 @@
  * Fri Dec 14 16:21:57 GMT 2018
  */
 
-package com;
+package com.practiceTest;
 
 import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
 import org.junit.BeforeClass;
