@@ -1,0 +1,1 @@
+-> To perform mutation analysis using PItest with building tool maven: mvn org.pitest:pitest-maven:mutationCoverage
