@@ -51,12 +51,29 @@
             </exclusions>
 
         </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>1.10.19</version>
+            <scope>test</scope>
+        </dependency>
 
         <dependency>
              <groupId>com.github.adedayo.intellij.sdk</groupId>
              <artifactId>annotations-java8</artifactId>
              <version>142.1</version>
          </dependency>
+        <dependency>
+            <groupId>com.sun.corba</groupId>
+            <artifactId>orb</artifactId>
+            <version>9.1</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.5</version>
+        </dependency>
+
     </dependencies>
     <build>
         <pluginManagement>
@@ -76,17 +93,38 @@
                      <version>1.4.3</version>
                      <configuration>
                          <targetClasses>
-                             <param>com.practiceTest.Lift</param>
+                             <param>com.practice.Lift</param>
                          </targetClasses>
                          <targetTests>
-                             <param>com.practiceTest.LiftTest</param>
+                             <param>com.practice.LiftTest</param>
                          </targetTests>
                          <environmentVariables>
                              <environment>test</environment>
                          </environmentVariables>
+                         <fullMutationMatrix>true</fullMutationMatrix>
+                         <outputFormats>
+                             <param>XML</param>
+                         </outputFormats>
                      </configuration>
                 </plugin>
-                   <plugin>
+                <plugin>
+                    <groupId>randoop</groupId>
+                    <artifactId>randoop-maven-plugin</artifactId>
+                    <version>3.1.5</version>
+                    <configuration>
+                        <packageName>my.base.package</packageName>
+                    </configuration>
+                    <executions>
+                        <execution>
+                            <id>generate-tests</id>
+                            <goals>
+                                <goal>gentests</goal>
+                            </goals>
+                            <phase>generate-test-sources</phase>
+                        </execution>
+                    </executions>
+                </plugin>
+                <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-compiler-plugin</artifactId>
                         <version>3.8.0</version>
