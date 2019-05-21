@@ -1,1 +1,2 @@
 -> To perform mutation analysis using PItest with building tool maven: mvn org.pitest:pitest-maven:mutationCoverage
+-> To extract the mutants in a different folder: mvn -Dfeatures=+EXPORT org.pitest:pitest-maven:mutationCoverage

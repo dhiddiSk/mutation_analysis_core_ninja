@@ -1,17 +1,17 @@
-package com.practice;
-
-import org.junit.*;
-
-import static org.junit.Assert.*;
-
-public class TestComplex {
-   public double real,imag;
-    Complex obj = new Complex(real,imag);
-   @Test(timeout = 4000)
-   public void test1() throws Throwable {
-          assertNotSame(obj.negate(), new Complex(-real,-imag));
-   }
-}
+//package com.practice;
+//
+//import org.junit.*;
+//
+//import static org.junit.Assert.*;
+//
+//public class TestComplex {
+//   public double real,imag;
+//    Complex obj = new Complex(real,imag);
+//   @Test(timeout = 4000)
+//   public void test1() throws Throwable {
+//          assertNotSame(obj.negate(), new Complex(-real,-imag));
+//   }
+//}
 
        /**
        // test here!
