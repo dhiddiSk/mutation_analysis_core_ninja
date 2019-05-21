@@ -1,8 +1,5 @@
 package com.practice;
 
-<<<<<<< HEAD
-package com.practice;
-
 import org.junit.*;
 
 import static org.junit.Assert.*;
@@ -30,21 +27,6 @@ public class TestComplex {
 
 
 
-=======
-package com.practice;
-
-import org.junit.*;
-
-import static org.junit.Assert.*;
-
-public class TestComplex {
-   public double real,imag;
-    Complex obj = new Complex(real,imag);
-   @Test(timeout = 4000)
-   public void test1() throws Throwable {
-          assertNotSame(obj.negate(), new Complex(-real,-imag));
-   }
-}
 
        /**
        // test here!
@@ -60,4 +42,3 @@ public class TestComplex {
 
 
 
->>>>>>> 82875b54d566553229514e7883b0528a4ec24ecf

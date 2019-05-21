@@ -1,4 +1,4 @@
-package com.practice.Code_defender_practice;
+package com.practice.DefendingCode;
 
 public class Triangle {
 
