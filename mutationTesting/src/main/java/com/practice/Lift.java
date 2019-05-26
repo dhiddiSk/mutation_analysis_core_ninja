@@ -8,6 +8,7 @@ class Lift{
     private int numRiders = 0;    // default
 
     public Lift(int highestFloor) {
+
         topFloor = highestFloor;
     }
 
@@ -17,7 +18,7 @@ class Lift{
     }
 
     public int getTopFloor() {
-        return topFloor;
+        return topFloor;         // mutated:   {return this.topFloor != 0 ? 0 : 1;}
     }
     public int getCapacity() {
         return capacity;

@@ -1,94 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d492b181-d3bf-4795-a787-a02f517fdaca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__backport_util_concurrent_backport_util_concurrent_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_ethz_ganymed_ganymed_ssh2_build210.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__classworlds_classworlds_1_1_alpha_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mks_api_mksapi_jar_4_10_9049.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_core_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_decoration_model_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_logging_api_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_apt_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_fml_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xdoc_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_site_renderer_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_2_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_0_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_toolchain_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugin_tools_maven_plugin_annotations_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_2_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_impl_2_0_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_api_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_manager_plexus_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_accurev_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_bazaar_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_clearcase_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvs_commons_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvsexe_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvsjava_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_git_commons_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_gitexe_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_hg_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_integrity_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_jazz_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_perforce_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_starteam_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svn_commons_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svnexe_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_synergy_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_tfs_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_vss_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_doxia_tools_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_maven_surefire_common_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_api_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_booter_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_1_7_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_i18n_1_0_beta_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_5_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_velocity_1_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_evosuite_evosuite_standalone_runtime_1_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_netbeans_lib_cvsclient_20060125.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_1_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_aggregator_1_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_entry_1_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_html_report_1_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_pitest_pitest_maven_maven_plugin_1_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__uk_org_lidalia_sysout_over_slf4j_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d492b181-d3bf-4795-a787-a02f517fdaca" name="Default Changelist" comment="update on how mutants from pit in a folder">
+      <change afterPath="$PROJECT_DIR$/.idea/templateLanguages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/commands.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/mutationTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/mutationTesting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/TestComplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/TestComplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Basic_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Basic_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Lift.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Lift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/LiftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/LiftTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/TestComplex.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mutationTesting/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,32 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutationTesting/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/0/com.practice.Lift.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="1395">
+              <caret line="93" column="94" selection-start-line="93" selection-start-column="94" selection-end-line="93" selection-end-column="94" />
               <folding>
-                <element signature="e#0#1746#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mutationTesting/commands.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/mutations.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="112" selection-start-line="1" selection-start-column="112" selection-end-line="1" selection-end-column="112" />
+            <state relative-caret-position="105">
+              <caret line="7" column="412" lean-forward="true" selection-start-line="7" selection-start-column="407" selection-end-line="7" selection-end-column="422" />
             </state>
           </provider>
         </entry>
@@ -137,10 +51,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>attribute</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,7 +73,6 @@
         <option value="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Attacking/Coffee_machine.java" />
         <option value="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Attacking/CoffeeMachine.java" />
         <option value="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/DefendingCode/Complex.java" />
-        <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/LiftTest.java" />
         <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MethodsOrders.java" />
         <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/CheckIgnoreCalTest.java" />
         <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MessageUtilTest2.java" />
@@ -165,9 +83,22 @@
         <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/my_calculationTest.java" />
         <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/QueuesExampleTest.java" />
         <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/TestComplex.java" />
-        <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" />
-        <option value="$PROJECT_DIR$/mutationTesting/pom.xml" />
         <option value="$PROJECT_DIR$/mutationTesting/commands.txt" />
+        <option value="$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/0/details.txt" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Lift.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/XML_to_matrix/XmlReader.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlRead.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/Abc.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/Abc.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/pom.xml" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/LiftTest.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/ComplexTest.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Basic_Calculator.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Polymorphism.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/RegressionTest1.java" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/mutations.xml" />
+        <option value="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader.java" />
       </list>
     </option>
   </component>
@@ -198,13 +129,24 @@
     <option name="x" value="1366" />
     <option name="y" value="-2" />
     <option name="width" value="1920" />
-    <option name="height" value="1202" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="mutation_testing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="mutationTesting" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,16 +159,32 @@
               <item name="mutation_testing" type="462c0819:PsiDirectoryNode" />
               <item name="mutationTesting" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
             <path>
-              <item name="mutation_testing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="mutationTesting" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="mutation_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mutation_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="mutationTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mutation_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mutation_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="mutationTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mutation_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mutation_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="mutationTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mutation_testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mutation_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="mutationTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,19 +201,30 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="Template Data Languages" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.practice" />
       <recent name="com.practice.DefendingCode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/resources" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XML_to_matrix" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XML_to_matrix/201905221818" />
+      <recent name="$PROJECT_DIR$/mutationTesting" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mutationTesting" />
-      <recent name="$PROJECT_DIR$/mutationTesting/src/test/java" />
-      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XML_to_matrix" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,8 +239,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LiftTest">
-    <configuration name="JunitAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.XmlReader">
+    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Polymorphism" />
+      <module name="mutationTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XMLToMatrix.XmlRead" />
+      <module name="mutationTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XMLToMatrix.XmlReader" />
+      <module name="mutationTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XMLToMatrix.XmlReader" />
+      <module name="mutationTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComplexTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mutationTesting" />
       <extension name="coverage">
         <pattern>
@@ -280,65 +301,60 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.practice" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.JunitAnnotation" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.ComplexTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComplexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mutationTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.practice.DefendingCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.practice" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.LiftTest" />
+      <option name="PACKAGE_NAME" value="com.practice.DefendingCode" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.DefendingCode.ComplexTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiftTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mutationTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.practice" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.LiftTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LiftTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mutationTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.practice" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.LiftTest" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="mutationTesting [clean,install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/mutationTesting" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LiftTest" />
-        <item itemvalue="JUnit.LiftTest.test3" />
-        <item itemvalue="JUnit.JunitAnnotation" />
-        <item itemvalue="JUnit.LiftTest.test4" />
+        <item itemvalue="Application.XmlReader" />
+        <item itemvalue="Application.Polymorphism" />
+        <item itemvalue="JUnit.ComplexTest (1)" />
+        <item itemvalue="JUnit.ComplexTest" />
+        <item itemvalue="Application.XmlRead" />
       </list>
     </recent_temporary>
   </component>
@@ -360,262 +376,327 @@
       <option name="project" value="LOCAL" />
       <updated>1558446136813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update on how mutants from pit in a folder">
+      <created>1558475504625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558475504627</updated>
+    </task>
+    <task id="LOCAL-00003" summary="XmlReader">
+      <created>1558658445725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558658445725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LiftTest_test3 - 2019.05.21 at 15h 41m 30s.xml">
-      <configuration name="LiftTest.test3" configurationId="JUnit" />
+    <history-entry file="LiftTest_test7 - 2019.05.22 at 17h 45m 09s.xml">
+      <configuration name="LiftTest.test7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiftTest - 2019.05.21 at 15h 41m 40s.xml">
+    <history-entry file="LiftTest_test7 - 2019.05.22 at 17h 46m 06s.xml">
+      <configuration name="LiftTest.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LiftTest_test6 - 2019.05.22 at 17h 57m 26s.xml">
+      <configuration name="LiftTest.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LiftTest_test6 - 2019.05.22 at 18h 09m 59s.xml">
+      <configuration name="LiftTest.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LiftTest_test4 - 2019.05.22 at 18h 15m 02s.xml">
+      <configuration name="LiftTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LiftTest_test4 - 2019.05.22 at 18h 18m 25s.xml">
+      <configuration name="LiftTest.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LiftTest - 2019.05.23 at 15h 45m 47s.xml">
       <configuration name="LiftTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LiftTest - 2019.05.21 at 16h 18m 09s.xml">
+    <history-entry file="LiftTest_test5 - 2019.05.23 at 15h 47m 06s.xml">
+      <configuration name="LiftTest.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LiftTest - 2019.05.23 at 15h 47m 22s.xml">
       <configuration name="LiftTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComplexTest_(1) - 2019.05.24 at 23h 07m 24s.xml">
+      <configuration name="ComplexTest (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="-2" width="1920" height="1202" extended-state="6" />
+    <frame x="1366" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.90642" visible="true" weight="0.3004269" />
-      <window_info id="Structure" order="1" sideWeight="0.09357998" side_tool="true" visible="true" weight="0.3004269" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9039088" weight="0.20330843" />
+      <window_info id="Structure" order="1" sideWeight="0.0960912" side_tool="true" weight="0.44349182" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29077354" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.47557002" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10807975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38719833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.14352283" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.07166124" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.2068404" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.5765472" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.68685925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.12433298" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.31254873" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9039088" visible="true" weight="0.2524013" />
+      <window_info id="Structure" order="1" sideWeight="0.0960912" side_tool="true" weight="0.44349182" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.11237785" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16938111" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.12703583" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.5765472" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.20521173" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.023382697" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update on how mutants from pit in a folder" />
+    <MESSAGE value="XmlReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="XmlReader" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="mutation_testing" type="b2602c69:ProjectViewProjectNode" />
+        <item name="mutation_testing" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/DefendingCode/Complex.java">
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/21/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/201905221420/mutations.xml" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/25/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/24/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/23/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/22/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/201905221624/mutations.xml" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/201905221746/mutations.xml" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/201905221758/mutations.xml" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/201905221810/mutations.xml" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/201905221815/mutations.xml" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/0/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/0/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/11/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/8/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/12/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/13/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/15/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/16/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/20/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/18/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/19/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/17/details.txt" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/18/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/20/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/19/com.practice.Lift.class" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/201905221818/mutations.xml" />
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.xml/javax/xml/parsers/DocumentBuilderFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="138" column="16" lean-forward="true" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+        <state relative-caret-position="-810">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.xml/javax/xml/parsers/DocumentBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/io/FileInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.naming/javax/naming/Context.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutationTesting/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Lift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
-            <element signature="e#1817#1818#0" expanded="true" />
-            <element signature="e#1881#1882#0" expanded="true" />
-            <element signature="e#2586#2587#0" expanded="true" />
-            <element signature="e#2640#2641#0" expanded="true" />
-            <element signature="e#3126#3127#0" expanded="true" />
-            <element signature="e#3185#3186#0" expanded="true" />
-            <element signature="e#3250#3251#0" expanded="true" />
-            <element signature="e#3278#3279#0" expanded="true" />
-            <element signature="e#3344#3345#0" expanded="true" />
-            <element signature="e#3372#3373#0" expanded="true" />
-            <element signature="e#3608#3609#0" expanded="true" />
-            <element signature="e#3672#3673#0" expanded="true" />
-            <element signature="e#3805#3806#0" expanded="true" />
-            <element signature="e#3853#3854#0" expanded="true" />
-            <element signature="e#3985#3986#0" expanded="true" />
-            <element signature="e#4032#4033#0" expanded="true" />
-            <element signature="e#4632#4633#0" expanded="true" />
-            <element signature="e#4672#4673#0" expanded="true" />
-            <element signature="e#4814#4815#0" expanded="true" />
-            <element signature="e#4871#4872#0" expanded="true" />
-            <element signature="e#5044#5045#0" expanded="true" />
-            <element signature="e#5089#5090#0" expanded="true" />
-            <element signature="e#5156#5157#0" expanded="true" />
-            <element signature="e#5186#5187#0" expanded="true" />
-            <element signature="e#5255#5256#0" expanded="true" />
-            <element signature="e#5285#5286#0" expanded="true" />
-            <element signature="e#5461#5462#0" expanded="true" />
-            <element signature="e#5519#5520#0" expanded="true" />
-            <element signature="e#5622#5623#0" expanded="true" />
-            <element signature="e#5656#5657#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Attacking/CoffeeMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
-          <folding>
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/DefendingCode/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Basic_Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MethodsOrders.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/CheckIgnoreCalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MessageUtilTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/JunitsuiteClasses.java" />
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/my_calculationTest.java" />
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MessageUtilTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/QueuesExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/CheckIgnoreCalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/LiftTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/JunitAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java">
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MessageUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#353#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/StackTest.java">
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/ComplexTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/TestComplex.java">
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Complex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="195">
+          <caret line="137" column="7" selection-start-line="137" selection-start-column="7" selection-end-line="137" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/target/classes/com/practice/Lift.class">
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/LinkedList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1733#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Lift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/LiftTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/target/surefire-reports/com.practice.LiftTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/target/surefire-reports/com.practice.QueuesExampleTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Basic_Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+        <state relative-caret-position="425">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/target/pit-reports/export/com/practice/Lift/mutants/0/com.practice.Lift.class">
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/RegressionTest1.java" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/randoop.java" />
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Polymorphism.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="270">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
-            <element signature="e#0#1746#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutationTesting/commands.txt">
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.xml/org/w3c/dom/Document.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="112" selection-start-line="1" selection-start-column="112" selection-end-line="1" selection-end-column="112" />
+        <state relative-caret-position="579">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.xml/org/w3c/dom/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/mutations.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="412" lean-forward="true" selection-start-line="7" selection-start-column="407" selection-end-line="7" selection-end-column="422" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="94" selection-start-line="93" selection-start-column="94" selection-end-line="93" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -677,6 +758,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

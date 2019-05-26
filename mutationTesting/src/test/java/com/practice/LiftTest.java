@@ -33,7 +33,56 @@ public class LiftTest {
     public void test4() {
         obj.addRiders(10);
         assertEquals(10, obj.getNumRiders());
+        obj.addRiders(20);
+        assertEquals(10, obj.getCapacity());
+
     }
+
+  /*To kill the mutant // mutated:   {return this.topFloor != 0 ? 0 : 1;}
+  write test such that when the topfloor = x then return x.
+  */
+    @Test
+    public void test5(){
+        new Lift(20);
+      assertEquals(20,obj.getTopFloor());
+
+       }
+    /*      public void goDown() {
+             if (this.currentFloor > 0) {
+              --this.currentFloor;
+                }
+         }
+    */
+
+      /*One thing can be done is call the current floor method.
+      and then check the go down once.
+//      * */ //@Test
+//    public void test6(){
+//      int x =1;
+//      if(x == obj.getCurrentFloor()){
+//        // check in the method returns level
+//             obj.goDown();
+//        assertEquals(x--,x);
+//      }
+//    }
+//// but the above test has no coverage
+//   @Test
+//    public void test7(){
+//          if(obj.getNumRiders()==obj.getCapacity()){
+//              assertEquals(true,obj.isFull());
+//          }
+//
+//      }
+
+@Test
+    public void test6(){
+    obj.call(10);
+    assertEquals(10,obj.getCurrentFloor());
+    obj.call(0);
+    assertEquals(0,obj.getCurrentFloor());
+
+}
+
 }
 
 

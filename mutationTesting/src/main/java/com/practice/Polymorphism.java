@@ -47,9 +47,10 @@ class priviliged extends Account{
 }
 public class Polymorphism {
     public static void main(String[] args){
-      Account obj1 = new Account();
-          obj1.withdraw(200);
-       Account obj2= new priviliged();
-        obj2.withdraw(20);
+        priviliged objRef1=  new priviliged();
+        objRef1.withdraw(20);
+        Account objRef2 = objRef1;
+          objRef2.withdraw(200);
+
     }
 }
