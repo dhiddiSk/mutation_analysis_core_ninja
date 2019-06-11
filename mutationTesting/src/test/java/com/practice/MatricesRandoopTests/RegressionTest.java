@@ -1,4 +1,4 @@
-package com.practice.MatricesTests;
+package com.practice.MatricesRandoopTests;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

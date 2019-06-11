@@ -1,4 +1,4 @@
-package com.practice.MatricesTests;
+package com.practice.MatricesRandoopTests;
 
 import com.practice.Matrix;
 import org.junit.FixMethodOrder;
