@@ -5,7 +5,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -19,6 +18,11 @@ import java.util.regex.Pattern;
 
 public class XmlReader3{
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
+        /*
+        Path of Xml file to be parsed
+        @param  int[][] array is to store the results, where rows represent the mutants and columns represent tests
+        @param
+         */
         final String filePath = "/home/saikrishna/Practical/mutation_practice/mutation_testing/mutationTesting/src/main/java/XMLToMatrix/mutations.xml";
            int[][] array;
            String[] statusArray;
@@ -27,10 +31,22 @@ public class XmlReader3{
             DocumentBuilderFactory DBF = DocumentBuilderFactory.newInstance();
             DocumentBuilder DB = DBF.newDocumentBuilder();
             Document Doc = DB.parse(file);
+            /*
+            @method getElementsByTagName() refers to get the value of the element from the xml.
+             */
             NodeList parentList = Doc.getElementsByTagName("mutation");
             int parentListLength = parentList.getLength();
-            array = new int[parentListLength][6];
+            /*
+            Array: rows-> parentListLength, which is length of the parent list
+                  columns-> number of tests in testsuite
+
+            Status Array: Array represents the result of the mutant, whether killed or survived
+             */
+             array = new int[parentListLength][6];
              statusArray = new String[parentListLength];
+           /*
+           This loop inspects values inside the parent elements and child attributes and assigns values as killed,survived,no-coverage
+            */
             for(int temp = 0; temp < parentListLength; temp++) {
                 Node nNode = parentList.item(temp);
                 if(nNode.getNodeType() == Node.ELEMENT_NODE) {
@@ -45,13 +61,14 @@ public class XmlReader3{
                         statusArray[temp] = "NoCov";
                     }
                     /*
-                   Here Number of tests run is the tests runned against that particular mutation
+                  @param numberOfTestsRun- Number of tests run is the tests executed against that particular mutant
                     */
 
                     String str1 = element.getAttribute("numberOfTestsRun");
                     int numberOfTestsRun = Integer.parseInt(str1);
                    /*
-                   Here the killingtests, which is the child of mutation has some context regarding the tests used to kill. So the context is extracted and then the particular test numbers is found.
+                  Here the killing tests, which is the child of mutation has some context regarding the tests used to kill.
+                   So the context is extracted and then the particular test numbers is found.
                     */
                     NodeList childList1 = element.getElementsByTagName("killingTests");
                     for(int firstChildCount = 0; firstChildCount < childList1.getLength(); firstChildCount++) {
