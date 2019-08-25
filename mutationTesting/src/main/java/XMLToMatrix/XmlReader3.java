@@ -17,6 +17,12 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class XmlReader3{
+    Hashtable<Integer,String> hashtable3 = new Hashtable<>();
+     int NumberOfTests;
+     XmlReader3(Hashtable<Integer, String> hashtable2, int after){
+         hashtable3 = hashtable2; NumberOfTests=after;
+     }
+
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
         /*
         Path of Xml file to be parsed
@@ -173,6 +179,7 @@ public class XmlReader3{
         }catch(IOException | ParserConfigurationException | SAXException e) {
             e.printStackTrace();
         }
+
 
     }
 }

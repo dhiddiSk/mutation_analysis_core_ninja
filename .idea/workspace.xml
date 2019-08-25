@@ -1,96 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d492b181-d3bf-4795-a787-a02f517fdaca" name="Default Changelist" comment="Commiting the whole directory">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_adedayo_intellij_sdk_annotations_java8_142_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_high_scale_lib_high_scale_lib_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jamm_0_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_r08.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_corba_orb_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cassandra_cassandra_all_0_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cassandra_cassandra_thrift_0_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cassandra_deps_avro_1_4_0_cassandra_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mutation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mutation.iml" afterDir="false" />
+    <list default="true" id="d492b181-d3bf-4795-a787-a02f517fdaca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/mutationTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/mutationTesting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader3.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Abstraction_Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Basic_Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/BinaryToDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/CheckIgnoreCal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Encapsulationtwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/EnumerationTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Equivalent1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/FooBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/GetSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/HashtableDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Inheritance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Inheritance2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/MappingJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/MessageUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Multithreading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Overriding1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Polymorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/PrintTopViewofTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/QueuesExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/Stack1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/StaticKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/com/practice/poly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/LiftMutant9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/Liftmutant10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList/Liftmutant7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/CalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/CheckIgnoreCalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/DefendingCode/ComplexTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MessageUtilTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MessageUtilTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/MethodsOrders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/QueuesExampleTest.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -305,9 +218,9 @@
       <item itemvalue="Application.XMLParser4" />
       <item itemvalue="Application.XmlReader3" />
       <item itemvalue="Application.XmlReader" />
+      <item itemvalue="Application.testt" />
       <item itemvalue="Maven.mutationTesting [clean,install]" />
       <item itemvalue="Maven.mutationTesting [clean,test]" />
-      <item itemvalue="Application.testt" />
     </list>
     <recent_temporary>
       <list>
@@ -386,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560271089129</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1566744624860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566744624860</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -461,11 +381,11 @@
     <MESSAGE value="update on how mutants from pit in a folder" />
     <MESSAGE value="XmlReader" />
     <MESSAGE value="New matrix added" />
-    <MESSAGE value="update" />
     <MESSAGE value="recovery" />
     <MESSAGE value="Random sampling of given number of mutants for a given size" />
     <MESSAGE value="Commiting the whole directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commiting the whole directory" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
