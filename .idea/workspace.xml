@@ -24,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -43,6 +44,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -225,8 +227,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.XMLParser4" />
-        <item itemvalue="Application.testt" />
         <item itemvalue="Application.XmlReader3" />
+        <item itemvalue="Application.testt" />
         <item itemvalue="Application.XmlReader" />
         <item itemvalue="Application.Basic_Calculator" />
       </list>
@@ -306,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566744624860</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1566758369977</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1566758369977</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">

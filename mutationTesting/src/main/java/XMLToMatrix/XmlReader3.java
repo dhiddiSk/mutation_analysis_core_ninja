@@ -17,12 +17,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class XmlReader3{
-    Hashtable<Integer,String> hashtable3 = new Hashtable<>();
-     int NumberOfTests;
-     XmlReader3(Hashtable<Integer, String> hashtable2, int after){
-         hashtable3 = hashtable2; NumberOfTests=after;
-     }
-
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
         /*
         Path of Xml file to be parsed
@@ -48,7 +42,7 @@ public class XmlReader3{
 
             Status Array: Array represents the result of the mutant, whether killed or survived
              */
-             array = new int[parentListLength][6];
+             array = new int[parentListLength][];
              statusArray = new String[parentListLength];
            /*
            This loop inspects values inside the parent elements and child attributes and assigns values as killed,survived,no-coverage
