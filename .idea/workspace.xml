@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d492b181-d3bf-4795-a787-a02f517fdaca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader3.java" beforeDir="false" afterPath="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix/XmlReader3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../thesisDrive/Rehabilitating_Immortal_mutants/MutationTestingOnCodeDefendersData" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -62,27 +61,27 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="com.practice" />
-      <recent name="com.practice.DefendingCode" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix" />
-      <recent name="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/IntHashMapTests" />
-      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList" />
-      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/randomSampling" />
-      <recent name="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.practice" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mutationTesting/src/main/java" />
       <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix" />
       <recent name="$PROJECT_DIR$/mutationTesting/src/main/resources" />
       <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XML_to_matrix" />
       <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XML_to_matrix/201905221818" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.practice" />
+      <recent name="" />
+      <recent name="com.practice.DefendingCode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.practice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mutationTesting/src/test/java/writtenTests" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/XMLToMatrix" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/test/java/com/practice/IntHashMapTests" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/mutantsList" />
+      <recent name="$PROJECT_DIR$/mutationTesting/src/main/java/randomSampling" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -97,13 +96,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XMLParser4">
-    <configuration name="Basic_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Basic_Calculator" />
+  <component name="RunManager" selected="JUnit.LiftTest">
+    <configuration name="Sampling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="randomSampling.Sampling" />
       <module name="mutationTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="randomSampling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XmlReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XMLToMatrix.XmlReader" />
+    <configuration name="XMLParserOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XMLToMatrix.XMLParserOne" />
       <module name="mutationTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="XMLToMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,15 +149,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XMLToMatrix.testt" />
+    <configuration name="LiftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mutationTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="XMLToMatrix.*" />
+          <option name="PATTERN" value="com.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.practice" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.LiftTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,21 +217,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Basic_Calculator" />
       <item itemvalue="Application.XMLParser4" />
       <item itemvalue="Application.XmlReader3" />
-      <item itemvalue="Application.XmlReader" />
-      <item itemvalue="Application.testt" />
+      <item itemvalue="Application.XMLParserOne" />
+      <item itemvalue="Application.Sampling" />
+      <item itemvalue="JUnit.LiftTest" />
       <item itemvalue="Maven.mutationTesting [clean,install]" />
       <item itemvalue="Maven.mutationTesting [clean,test]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LiftTest" />
+        <item itemvalue="Application.Sampling" />
+        <item itemvalue="Application.XMLParserOne" />
         <item itemvalue="Application.XMLParser4" />
         <item itemvalue="Application.XmlReader3" />
-        <item itemvalue="Application.testt" />
-        <item itemvalue="Application.XmlReader" />
-        <item itemvalue="Application.Basic_Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -315,40 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1566758369977</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update">
+      <created>1566918985596</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1566918985596</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="IntHashMapTest - 2019.06.12 at 19h 27m 19s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.12 at 19h 29m 44s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.12 at 19h 59m 05s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.12 at 20h 02m 56s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.12 at 20h 03m 36s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.12 at 20h 26m 05s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.12 at 23h 22m 01s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.12 at 23h 26m 42s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.13 at 00h 00m 15s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IntHashMapTest - 2019.06.13 at 00h 05m 38s.xml">
-      <configuration name="IntHashMapTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
