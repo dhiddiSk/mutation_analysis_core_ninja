@@ -1,10 +1,5 @@
-# Estimating the number of Immortal Mutants
+# Estimating the number of Killable Mutants
 
-## JSON
-
-The directory for experiments is `microjson/test/`
-
-The directory for data  is `data/microjson/`
 
 ## Apache Commons
 
@@ -37,21 +32,6 @@ results/commons-math.mutations.xml 47879
 results/commons-net.mutations.xml 5697
 
 
-others:
-
-results/commons-beanutils.mutations.xml 2916
-results/commons-cli.mutations.xml 732
-results/commons-codec.mutations.xml 3972
-results/commons-crypto.mutations.xml 723
-results/commons-dbutils.mutations.xml 755
-results/commons-digester.mutations.xml 1635
-results/commons-email.mutations.xml 584
-results/commons-exec.mutations.xml 525
-results/commons-fileupload.mutations.xml 615
-results/commons-pool.mutations.xml 1357
-results/commons-validator.mutations.xml 2009
-total 126105
-
 Next, we chose 100 mutants from the surviving mutants, and classified them
 using manual classification (two investigators). The results of manual
 classification of the surviving mutants are under the classified directory.
@@ -78,12 +58,12 @@ Note that csv had only 116 mutants, and hence all mutants were classified.
    101 classified/commons-net.sample.jh.csv
    101 classified/commons-net.sample.sd.csv
 
-classified: Note that the last updates by SD should be taken as ground truth.
+classified: Note that the last updates by SD(MySelf) should be taken as ground truth.
 
 We used Evosuite to generate test suites, and evaluate all the mutants
 using these generated test suites. The results of these are available under
 
-    ./evosuites/results/commons-csv.mutations.xml                        
+    ./evosuites/results/commons-csv.mutations.xml
     ./evosuites/results/commons-collections.mutations.xml
     ./evosuites/results/commons-compress.mutations.xml
     ./evosuites/results/commons-configuration.mutations.xml
@@ -94,16 +74,3 @@ using these generated test suites. The results of these are available under
     ./evosuites/results/commons-math.mutations.xml
     ./evosuites/results/commons-net.mutations.xml
 
-We also used Randoop to generate test suites, and evaluate all the mutants
-using the generated test suites.
-
-    ./randoopsuites/results/commons-csv.mutations.xml                        
-    ./randoopsuites/results/commons-collections.mutations.xml
-    ./randoopsuites/results/commons-compress.mutations.xml
-    ./randoopsuites/results/commons-configuration.mutations.xml
-    ./randoopsuites/results/commons-dbcp.mutations.xml
-    ./randoopsuites/results/commons-imaging.mutations.xml
-    ./randoopsuites/results/commons-io/ (multiple)
-    ./randoopsuites/results/commons-lang.mutations.xml
-    ./randoopsuites/results/commons-math.mutations.xml
-    ./randoopsuites/results/commons-net.mutations.xml
