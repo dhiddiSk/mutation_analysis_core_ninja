@@ -1,0 +1,54 @@
+[1] "Processing CollectionMutations.matrix"
+Data size:  8334 223 
+[1] "Cought: 4239"
+              est        lowCI        uppCI
+Nhat 1.083531e+04 1.014965e+04 1.160051e+04
+pHat 4.338917e-03 4.052712e-03 4.632032e-03
+{
+  "dataset": "/home/saikrishna/mutations/Matrices/CollectionMutations.matrix",
+  "n.mutants": 8334,
+  "n.samples": 222,
+  "n.killed": 4239,
+  "estimators": [
+    {
+      "estimator": "chao_lower",
+      "value": 8786.8104,
+      "lowci": 4877.7826,
+      "upci": 36617.1187
+    },
+    {
+      "estimator": "bootstrap",
+      "value": 5959.6926,
+      "lowci": 5596.7768,
+      "upci": 6322.6084
+    },
+    {
+      "estimator": "sample_coverage",
+      "value": 23332.2589
+    },
+    {
+      "estimator": "chao_upperbound",
+      "value": 8786.8104,
+      "lowci": 7382.4706,
+      "upci": 8322.3893
+    },
+    {
+      "estimator": "chao2_our",
+      "value": 8786.8104,
+      "lowci": 8307.0458,
+      "upci": 9266.5751
+    },
+    {
+      "estimator": "jack_wiqid",
+      "value": 10835.3095,
+      "lowci": 10149.6513,
+      "upci": 11600.5067
+    },
+    {
+      "estimator": "jack_our",
+      "value": 10853.4152,
+      "lowci": 10296.6573,
+      "upci": 11410.1731
+    }
+  ]
+} 

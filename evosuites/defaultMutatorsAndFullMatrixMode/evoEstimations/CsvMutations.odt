@@ -1,0 +1,56 @@
+[1] "Processing CsvMutations.matrix"
+Data size:  635 21 
+[1] "Cought: 188"
+              est        lowCI       uppCI
+Nhat 272.49639224 234.08623173 342.9191599
+pHat   0.09284527   0.07377832   0.1080798
+{
+  "dataset": "/home/saikrishna/mutations/Matrices/CsvMutations.matrix",
+  "n.mutants": 635,
+  "n.samples": 20,
+  "n.killed": 188,
+  "estimators": [
+    {
+      "estimator": "chao_lower",
+      "value": 246.5938,
+      "lowci": 195.5623,
+      "upci": 641.9947
+    },
+    {
+      "estimator": "bootstrap",
+      "value": 242.5811,
+      "lowci": 202.5714,
+      "upci": 282.5907
+    },
+    {
+      "estimator": "sample_coverage",
+      "value": 293.2604,
+      "lowci": 243.7813,
+      "upci": 342.7395
+    },
+    {
+      "estimator": "chao_upperbound",
+      "value": 246.5938,
+      "lowci": 205.6431,
+      "upci": 381.6786
+    },
+    {
+      "estimator": "chao2_our",
+      "value": 246.5938,
+      "lowci": 211.9054,
+      "upci": 281.2821
+    },
+    {
+      "estimator": "jack_wiqid",
+      "value": 272.4964,
+      "lowci": 234.0862,
+      "upci": 342.9192
+    },
+    {
+      "estimator": "jack_our",
+      "value": 285.8237,
+      "lowci": 247.1463,
+      "upci": 324.5011
+    }
+  ]
+} 
